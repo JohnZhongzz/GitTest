@@ -1,7 +1,7 @@
 # Here's some new strange stuff, remember type it exactly.
 
 days = "Mon Tue Wed Thu Fri Sat Sun"
-months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nfuck\cao"
+months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nfuck"
 
 print("Here are the days: ", days)
 print("Here are the months: ", months)
